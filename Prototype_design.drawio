@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T09:32:15.605Z" agent="5.0 (Windows)" version="21.0.6" etag="8p9BIaFlPbVm50Z5TLbU" type="github"><diagram name="Page-1" id="K1UbNVu0KkDpkJIg__LA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-15T09:43:19.810Z" agent="5.0 (Windows)" etag="RuJTcC1Ae4RrAoYXZRem" version="21.0.6" type="github">
+  <diagram name="Page-1" id="K1UbNVu0KkDpkJIg__LA">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="416" width="64" height="52" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
