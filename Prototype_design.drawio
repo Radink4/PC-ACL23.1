@@ -1,14 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T09:43:19.810Z" agent="5.0 (Windows)" etag="RuJTcC1Ae4RrAoYXZRem" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T09:55:35.540Z" agent="5.0 (Windows)" etag="4wGfM9dryPWGTR4J-gfa" version="21.0.6" type="github">
   <diagram name="Page-1" id="K1UbNVu0KkDpkJIg__LA">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1D_MOZqSCsbSuo-Xv_lH-3" target="1D_MOZqSCsbSuo-Xv_lH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1D_MOZqSCsbSuo-Xv_lH-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
           <mxGeometry x="190" y="410" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="1D_MOZqSCsbSuo-Xv_lH-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="1">
-          <mxGeometry x="390" y="416" width="64" height="52" as="geometry" />
+          <mxGeometry x="590" y="416" width="64" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="238" y="230" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1D_MOZqSCsbSuo-Xv_lH-4" target="1D_MOZqSCsbSuo-Xv_lH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-4" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1D_MOZqSCsbSuo-Xv_lH-9" target="1D_MOZqSCsbSuo-Xv_lH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1D_MOZqSCsbSuo-Xv_lH-9" target="1D_MOZqSCsbSuo-Xv_lH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-14" value="Employé PC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="624" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1D_MOZqSCsbSuo-Xv_lH-15" value="&lt;h1&gt;Prototype de design global&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Première itération du design global proposé pour le remplacement de l&#39;infrastructure applicative de Pet Clinic&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="-10" width="191" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
